@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vddglab
-- 👀 I’m interested in Blockchain and AI technologies.
-- 🌱 I’m currently learning Solidity.
+- 👀 I’m interested in **Blockchain** and **AI** technologies.
+- 🌱 I’m currently learning **Solidity**.
 - 💞️ I’m looking to collaborate on blockchain projects.
 - 📫 How to reach me: okcu [@] hotmail.com.tr
 
